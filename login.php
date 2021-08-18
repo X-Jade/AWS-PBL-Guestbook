@@ -43,6 +43,7 @@ else
         <div class="box-register">
             <div class="box">
         <div class="heading">
+            <b>WELCOME</b>
             <b>LOGIN</b>
         </div>
             <form class="form" method="POST" action="controller/doLogin.php">
